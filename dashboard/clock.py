@@ -41,7 +41,7 @@ class MainWindow(QtWidgets.QMainWindow):
     self.clock.setAlignment(Qt.AlignCenter)
 
     self.date.setStyleSheet('''
-      font-size:100px;
+      font-size:90px;
       font-weight:bold;
 	  font-family: Arial;
       color:lime;
